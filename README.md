@@ -1,7 +1,7 @@
 # Mech-Eng Second Task 🗣:
 
 ## Description 📝:
-In this task, I explained the steps required to design the foot joint <br />
+In this task, I described the steps involved in designing the foot joint. <br />
 
 ## Steps :star: :
 The followed steps are explained in the link: <br />
