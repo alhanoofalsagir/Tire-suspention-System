@@ -1,4 +1,4 @@
-# Mech-Eng Second Task 🗣:
+# Mech-Eng Task 🗣:
 
 ## Description 📝:
 In this task, I described the steps involved in designing the foot joint. <br />
